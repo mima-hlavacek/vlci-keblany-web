@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Muli&amp;family=Noticia+Text&amp;display=swap&amp;subset=latin-ext" />
+  <title>Content Manager</title>
+</head>
+<body>
+  <!-- Include the script that builds the page and powers Netlify CMS -->
+  <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+  <script>
+    function parseDateWidget(dateRaw) {
+      if (!dateRaw || dateRaw == "null") return "";
+      const date = (dateRaw instanceof Date) ? dateRaw : new Date(dateRaw);
+      const zY = new Intl.DateTimeFormat('cs', { year: 'numeric' }).format(date);
+      const zM = new Intl.DateTimeFormat('cs', { month: 'numeric' }).format(date);
+      const zD = new Intl.DateTimeFormat('cs', { day: 'numeric' }).format(date);
+      return `${zD} ${zM}. ${zY}`;
+    }
+    var PostPreview = createClass({
+      render: function() {
+        const entry = this.props.entry;
+        const zacatek = parseDateWidget(entry.getIn(['data', 'zacatek']));
+        const konec = parseDateWidget(entry.getIn(['data', 'konec']));
+
+        var postDate = zacatek;
+        if (konec) {
+          postDate = `${postDate} \u2013 ${konec}`;
+        };
+        return h('div', {},
+          h('header', {"className": "single-page-header"},
+            h('h1', {}, entry.getIn(['data', 'title'])),
+            h('em', {}, postDate)
+          ),
+          h('content', {}, this.props.widgetFor('body'))
+        );
+      }
+    });
+    var MainPageAnnouncement = createClass({
+      render: function() {
+        return h('section', {"className": "index-announcement"},
+          this.props.widgetFor('body')
+        );
+      }
+    });
+
+
+    CMS.registerPreviewStyle("/styles/main.css");
+    CMS.registerPreviewTemplate("kalendar-akci", PostPreview);
+    CMS.registerPreviewTemplate("probehle-vylety", PostPreview);
+    CMS.registerPreviewTemplate("main_page_announcement", MainPageAnnouncement);
+  </script>
+</body>
+</html>

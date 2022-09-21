@@ -1,0 +1,12 @@
+<article class="article-summary">
+  <header>
+    <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    <em>{{ dateFormat "2. 1. 2006" .Params.zacatek }}{{ with .Params.konec }} &ndash; {{ dateFormat "2. 1. 2006" . }}{{ end }}</em>
+  </header>
+  <content>
+    <p>
+      {{ .Summary }}
+    </p>
+    <a href="{{ .Permalink }}" class="read-more" title="Přečíst celé">&#x22ef;</a>
+  </content>
+</article>

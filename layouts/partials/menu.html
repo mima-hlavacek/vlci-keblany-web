@@ -1,0 +1,16 @@
+<input type="checkbox" id="menu-show-hide" />
+<label for="menu-show-hide"><span id="menu-show-hide-icon">☰</span> Menu</label>
+<nav class="global-navigation">
+  {{ $currentPage := .Page }}
+  {{ $currentSection := .CurrentSection }}
+  {{ range sort .Site.Menus.main "Weight" }}
+    <a class="{{ if $currentSection.IsMenuCurrent "main" . }}menu-selected{{ end }}{{ if $currentPage.IsMenuCurrent "main" . }} menu-current{{ end }}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+  {{ end }}
+</nav>
+{{ range .Site.Menus.main }}
+  {{ if $currentPage.IsMenuCurrent "main" . }}
+    <div class="menu-title-container">
+      <a class="menu-title" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+    </div>
+  {{ end }}
+{{ end }}

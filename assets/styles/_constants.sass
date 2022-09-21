@@ -1,0 +1,22 @@
+$heading-font: 'Muli', sans-serif
+$text-font: 'Noticia Text', serif
+
+$primary-color: #789FCC
+$secondary-color: #FFB449
+
+$max-width: 50em
+
+@mixin media-allowed
+  @media all
+    @content
+
+@mixin small-screen
+  @media only screen and (min-width: 600px)
+    @content
+
+@mixin medium-screen
+  @media only screen and (min-width: 768px)
+    @content
+
+@mixin custom-focus-outline
+  outline: .1rem solid $secondary-color

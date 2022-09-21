@@ -1,0 +1,9 @@
+{{ define "main" }}
+  <div class="article-list">
+  {{ range where (sort .Pages "Params.zacatek" "desc") "Params.zacatek" "<=" (now.Format "2006-01-02") }}
+    {{ partial "summary.html" . }}
+  {{ end }}
+  </div>
+{{ end }}
+
+{{ define "description" }}Výlety, na kterých jsme byli.{{ end }}

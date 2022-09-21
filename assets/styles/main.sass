@@ -1,0 +1,264 @@
+@import 'normalize', 'constants'
+
+/*
+ * General styles
+ */
+
+*, *:before, *:after
+  -webkit-box-sizing: border-box
+  -moz-box-sizing: border-box
+  box-sizing: border-box
+
+body
+  max-width: $max-width
+  margin: 0 auto
+  font-family: $text-font
+  font-size: 1em
+
+h1, h2, h3, h4, h5, h6
+  font-family: $heading-font
+
+h1
+  font-size: 2rem
+
+h2
+  font-size: 1.5rem
+
+h3
+  font-size: 1.17rem
+
+h4
+  font-size: 1rem
+
+h5
+  font-size: .83rem
+
+h6
+  font-size: .67rem
+
+a
+  text-decoration: none
+  color: $primary-color
+  &:focus
+    @include custom-focus-outline
+
+a:hover, a:active
+  color: $secondary-color
+
+p
+  margin: 0
+  text-indent: 1em
+  line-height: 1.5
+
+img
+  max-width: 100%
+  width: $max-width / 2
+  display: block
+  margin: .5em auto 1em
+
+/*
+ * Page header
+ */
+header.page-header
+  margin-top: 1rem
+  border-bottom: .2rem solid $primary-color
+  padding-bottom: .5rem
+  @include small-screen
+    padding-bottom: 1rem
+
+  h1
+    margin: 0
+    text-align: center
+    font-size: 3rem
+    @include small-screen
+      font-size: 4.5rem
+    @include medium-screen
+      font-size: 6rem
+
+  img
+    margin: 0 .4em 0 0
+    width: 1em
+    height: 1em
+    display: inline-block
+    max-width: none
+
+  a
+    color: black
+
+/*
+ * Navigation
+ */
+
+@mixin menu-underline
+  border-bottom: .1em solid $primary-color
+
+@mixin display-vertical-menu
+  display: flex
+  flex-direction: column
+  align-items: center
+
+%menu-link
+  color: black
+  font-size: 1.5rem
+  padding: .5em .5em .15em .5em
+  border-bottom: .1em solid white
+  @include small-screen
+    font-size: 2rem
+  @include medium-screen
+    padding-top: 1em
+
+  white-space: nowrap
+  text-align: center
+  &:hover, &:active, &.menu-selected
+    @include menu-underline
+
+nav.global-navigation
+  @include display-vertical-menu
+  padding-bottom: 1rem
+  @include media-allowed
+    display: none
+    padding-bottom: 0rem
+  @include small-screen
+    display: flex
+    flex-direction: row
+    justify-content: space-evenly
+    align-items: flex-start
+    padding-bottom: 1rem
+  @include medium-screen
+    padding-bottom: 2rem
+
+  a
+    @extend %menu-link
+    &.menu-current
+      @include media-allowed
+        display: none
+      @include small-screen
+        display: inline
+
+#menu-show-hide
+  display: none
+  opacity: 0
+  margin: 0 auto
+  width: 0
+  height: 0
+
+  & + label
+    display: none
+    font-family: $text-font
+    font-size: 1.5rem
+    margin-top: 1rem
+    text-align: center
+    cursor: pointer
+
+  @include media-allowed
+    display: block
+    & + label
+      display: block
+
+  @include small-screen
+    display: none
+    & + label
+      display: none
+
+  & + label #menu-show-hide-icon
+    font-size: 1.3rem
+    color: $primary-color
+
+  &:checked + label #menu-show-hide-icon
+	  color: $secondary-color
+
+  &:checked ~ nav.global-navigation
+	  display: flex
+
+.menu-title-container
+  @include display-vertical-menu
+  display: none
+  @include media-allowed
+    display: flex
+  @include small-screen
+    display: none
+  margin-bottom: 2em
+
+a.menu-title
+  @extend %menu-link
+  @include menu-underline
+
+/*
+ * Content
+ */
+
+.content-container
+  margin-left: 1em
+  margin-right: 1em
+
+/*
+ * Main page
+ */
+
+.main-page-container
+  display: flex
+  flex-direction: column
+  @include medium-screen
+    flex-direction: row
+  flex-wrap: nowrap
+
+section.main-page-preview
+  text-align: justify
+  @include medium-screen
+    padding-left: 1em
+    padding-right: 1em
+    max-width: 50%
+
+  h1
+    border-left: .15em solid $primary-color
+    padding-left: .2em
+
+  h2
+    border: none
+
+section.index-announcement
+  width: 100%
+  text-align: center
+
+/*
+ * Article previews
+ */
+
+article.article-summary
+  header
+    margin-bottom: 1rem
+
+    a
+      color: black
+
+  em
+    font-size: 1.1em
+
+a.read-more
+  border: .1em solid $primary-color
+  padding: .5em .8em .5em .8em
+  margin-top: .1em
+  border-radius: .5rem
+  float: right
+  transition: .3s
+  transition-property: border-color, color
+  &:hover
+    border-color: $secondary-color
+
+/*
+ * Section pages
+ */
+
+.article-list
+  article:not(:first-child)
+    margin-top: 5em
+
+/*
+ * Articles
+ */
+
+header.single-page-header
+  margin-bottom: 2em
+  text-align: center
+  em
+    font-size: 1.3em

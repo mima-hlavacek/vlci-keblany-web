@@ -1,0 +1,106 @@
+backend:
+  name: github
+  repo: mima-hlavacek/vlci-keblany-web
+
+locale: 'cs'
+site_url: "https://vlcikeblany.cz"
+media_folder: "static/images/uploads"
+public_folder: "/images/uploads"
+slug:
+  clean_accents: true
+
+collections:
+  - name: "kalendar-akci"
+    label: "Kalendář Akcí"
+    folder: "content/kalendar-akci"
+    create: true
+    slug: "{{slug}}-{{zacatek}}"
+    path: "{{slug}}/index"
+    extension: "md"
+    format: "yaml-frontmatter"
+    preview-path: "kalendar-akci/{{slug}}"
+    media_folder: ''
+    public_folder: ''
+    filter:
+      field: "type"
+      value: "post"
+    fields:
+      - label: "Název"
+        name: "title"
+        widget: "string"
+      - label: "Začátek"
+        name: "zacatek"
+        widget: "datetime"
+        format: "YYYY-MM-DD"
+        dateFormat: "D. M. YYYY"
+        timeFormat: false
+      - label: "Konec"
+        name: "konec"
+        widget: "datetime"
+        format: "YYYY-MM-DD"
+        dateFormat: "D. M. YYYY"
+        timeFormat: false
+        required: false
+        default: ""
+      - label: "Text článku"
+        name: "body"
+        widget: "markdown"
+      - name: "type"
+        widget: "hidden"
+        default: "post"
+  - name: "probehle-vylety"
+    label: "Proběhlé výlety"
+    folder: "content/probehle-vylety"
+    create: true
+    slug: "{{slug}}-{{zacatek}}"
+    path: "{{slug}}/index"
+    extension: "md"
+    format: "yaml-frontmatter"
+    preview-path: "probehle-vylety/{{slug}}"
+    media_folder: ''
+    public_folder: ''
+    filter:
+      field: "type"
+      value: "post"
+    fields:
+      - label: "Název"
+        name: "title"
+        widget: "string"
+      - label: "Začátek"
+        name: "zacatek"
+        widget: "datetime"
+        format: "YYYY-MM-DD"
+        dateFormat: "D. M. YYYY"
+        timeFormat: false
+      - label: "Konec"
+        name: "konec"
+        widget: "datetime"
+        format: "YYYY-MM-DD"
+        dateFormat: "D. M. YYYY"
+        timeFormat: false
+        required: false
+        default: ""
+      - label: "Text článku"
+        name: "body"
+        widget: "markdown"
+      - name: "type"
+        widget: "hidden"
+        default: "post"
+  - name: "collection_page_content"
+    label: "Ostatní"
+    files:
+      - name: "main_page_announcement"
+        label: "Oznámení na hlavní straně"
+        file: "content/_index.md"
+        fields:
+          - name: "title"
+            widget: "hidden"
+            default: "Vlci Keblany"
+          - name: "type"
+            widget: "hidden"
+            default: "main-page"
+          - label: "Text oznámení. Většinu času by mělo být prázdné."
+            name: "body"
+            widget: "markdown"
+            hint: "Objeví se rovnou na úvodní stránce. Dobré nechat prázdné, není-li něco klíčového potřeba vypíchnout :)."
+            required: false

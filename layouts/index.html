@@ -1,0 +1,27 @@
+{{ define "main" }}
+  {{ with .Content }}
+    <section class="index-announcement">
+      {{.}}
+    </section>
+  {{ end }}
+  <div class="main-page-container">
+    <section class="main-page-preview">
+      <h1 class="main-page-preview-header">Poslední výlet</h1>
+      {{ with .Site.GetPage "/probehle-vylety" }}
+        {{ range first 1 (where (sort .Pages "Params.zacatek" "desc") "Params.zacatek" "<=" (now.Format "2006-01-02")) }}
+          {{ partial "summary.html" . }}
+        {{ end }}
+      {{ end }}
+    </section>
+      <section class="main-page-preview">
+        <h1 class="main-page-preview-header">Následující výlet</h1>
+        {{ with .Site.GetPage "/kalendar-akci" }}
+          {{ range first 1 (where (sort .Pages "Params.zacatek") "Params.zacatek" ">=" (dateFormat "2006-01-02" now)) }}
+            {{ partial "summary.html" . }}
+          {{ end }}
+        {{ end }}
+      </section>
+   </div>
+{{ end }}
+
+{{ define "description" }}Stránky keblanských Vlků.{{ end }}

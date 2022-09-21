@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="cs" dir="ltr">
+  <head>
+    <title>{{ block "title" . }}
+      {{ .Site.Title }}
+    {{ end }}</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="{{ .Page.Title }}" />
+    <meta property="og:description" content="{{ block "description" . }}{{ .Summary | truncate 110 }}{{ end }}" />
+    <meta property="og:image" content="{{ "images/common/vlk-v-obdelniku.png" | absURL}}" />
+
+    {{ $style := resources.Get "styles/main.sass" | toCSS }}
+    <link rel="stylesheet" href="{{ $style.Permalink }}" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Muli&amp;family=Noticia+Text&amp;display=swap&amp;subset=latin-ext" />
+    <link rel="icon" href="/favicon.ico" sizes="32x32">
+  </head>
+  <body class="top-level-container">
+    {{ partial "header.html" . }}
+    {{ partial "menu.html" . }}
+    <main class="content-container">
+      {{ block "main" . }}
+      {{ end }}
+    </main>
+  </body>
+</html>

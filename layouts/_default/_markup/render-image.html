@@ -1,0 +1,5 @@
+{{ $image := .Page.Resources.GetMatch (printf "%s" (.Destination | safeURL)) }}
+{{ if ne $image nil }}
+{{ $thumbnail := $image.Resize "480x" }}
+<a href="{{ $image.RelPermalink }}" target="_blank"><img src="{{ $thumbnail.RelPermalink }}" alt="{{ .Text }}" {{ with .Title }} title="{{ . }}"{{ end }} /></a>
+{{ end }}
