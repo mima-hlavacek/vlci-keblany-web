@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: mima-hlavacek/vlci-keblany-web
+  branch: main
 
 locale: 'cs'
 site_url: "https://vlcikeblany.cz"
