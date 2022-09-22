@@ -1,5 +1,5 @@
 ---
-title: Deskohraní
+title: Říjnové deskohraní
 zacatek: 2022-10-07
 konec: ""
 type: post
