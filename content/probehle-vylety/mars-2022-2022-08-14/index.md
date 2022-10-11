@@ -4,4 +4,4 @@ zacatek: 2022-08-14
 konec: 2022-08-28
 type: post
 ---
-![](raketa2.jpg)
+![https://keblany.rajce.idnes.cz/Tabor_2022_-_Mars/](raketa2.jpg)
