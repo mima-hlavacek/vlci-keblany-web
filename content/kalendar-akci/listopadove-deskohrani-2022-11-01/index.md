@@ -1,7 +1,7 @@
 ---
 title: Listopadové deskohraní
-zacatek: 2022-11-01
+zacatek: 2022-11-25
 konec: ""
 type: post
 ---
-V﻿ průběhu listopadu nás čeká ještě jedno deskohraní, které přesným datem zatím mlčí. Leč ne na dlouho!
+D﻿eskové tradice se musí udržovat i v bahnivých měsících.
