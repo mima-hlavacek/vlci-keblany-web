@@ -1,6 +1,6 @@
 ---
 title: Listopadové deskohraní
-zacatek: 2022-11-25
+zacatek: 2022-11-04
 konec: ""
 type: post
 ---
