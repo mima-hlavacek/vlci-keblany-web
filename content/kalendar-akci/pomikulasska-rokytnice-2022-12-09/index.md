@@ -14,7 +14,7 @@ Výlet zahájíme odjezdem autobusem z Černého Mostu v pátek odpoledne a več
 
 Všichni zájemci nechť se hlásí na e-mail: annavilimova@seznam.cz nebo telefonicky na 721 521 842 nejpozději  **do 30. 11. 2022,** zároveň prosím přihlášené o zaplacení zálohy 1000 Kč na účet 248489102/0300 též do 30. 11. 2022.
 
-A jestli ještě někdo váhá, ať nahlédne do zápisu z loňské Rokytnice [TADY]([https://vlcikeblany.cz/​probehle-vylety/mikulasska-​rokytnice-2021-12-03/](https://vlcikeblany.cz/probehle-vylety/mikulasska-rokytnice-2021-12-03/)), třeba mu to pomůže v rozhodování :).
+A jestli ještě někdo váhá, ať nahlédne do zápisu z loňské Rokytnice [TADY](https://vlcikeblany.cz/probehle-vylety/mikulasska-rokytnice-2021-12-03/), třeba mu to pomůže v rozhodování :).
 
 Za všechny vedoucí se na vás těší
 
