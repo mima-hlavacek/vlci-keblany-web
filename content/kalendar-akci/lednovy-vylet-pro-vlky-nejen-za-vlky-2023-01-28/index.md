@@ -1,6 +1,6 @@
 ---
-title: Lednový výlet pro vlky nejen za vlky
-zacatek: 2023-01-28
+title: Únorový výlet pro vlky nejen za vlky
+zacatek: 2023-02-04
 konec: ""
 type: post
 ---
