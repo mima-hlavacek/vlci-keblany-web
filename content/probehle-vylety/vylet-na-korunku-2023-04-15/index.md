@@ -1,5 +1,5 @@
 ---
-title: Výlet na Korunku
+title: Jarní rozhlížení z Korunky
 zacatek: 2023-04-15
 konec: ""
 type: post
