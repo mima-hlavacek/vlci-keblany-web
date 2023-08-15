@@ -1,5 +1,5 @@
 ---
-title: Pravidla moštárný
+title: Pravidla moštárny
 zacatek: 2023-09-23
 konec: ""
 type: post
