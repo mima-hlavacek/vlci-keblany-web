@@ -10,10 +10,6 @@ Vydali (nebýt Máti vydaly) jsme se takhle jednou do podhůří Šumavy. Ve vla
 
 ### Report od Lůči
 
-Předtáborový bivak vyhráli co do účasti děti nad vedoucími. Ale bylo to o fous! Vláčkem jsme se dokodrcali do Domažlic a odtamtud vystoupali až na hrad Rýzmberk (tj. Rambibouze, Ramzibouda...), kdežto jsme v luxusním altánku přenocovali (měkké "i" ve větách zajišťuje pouze Máťa). Výlet to byl dobrodružný, nejedna pohorka nezůstala celá! Kdo nezažil, nechť [hledí](https://keblany.rajce.idnes.cz/Predtaborovy_bivak_-_Sumava_06_2020/)!
-
-![](bivak.jpg)
+Předtáborový bivak vyhráli co do účasti děti nad vedoucími. Ale bylo to o fous! Vláčkem jsme se dokodrcali do Domažlic a odtamtud vystoupali až na hrad Rýzmberk (tj. Rambibouze, Ramzibouda...), kdežto jsme v luxusním altánku přenocovali (měkké "i" ve větách zajišťuje pouze Máťa). Výlet to byl dobrodružný, nejedna pohorka nezůstala celá! Kdo nezažil, nechť [hledí](https://eu.zonerama.com/vlci-keblany/1303470?secret=R29V8G02MMYv0gPl94klH1g49&count=46)!
 
 ![](bivaaak.jpg)
-
-![](pohorky.jpg)
