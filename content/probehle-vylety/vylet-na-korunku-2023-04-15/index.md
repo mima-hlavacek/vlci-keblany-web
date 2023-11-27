@@ -8,6 +8,6 @@ Autobus nás vyplivl v Mníšku pod Brdy, z kterého jsme vystoupali cestou, je�
 
 Klíčovým účastníkem výletu byl Valinovic gumový balon, který v kombinaci s hrou na přírodní katastrofy spolehlivě preventoval veškeré bolenohy, jásenudimy i kdyužtambudemy. B﻿ylo tam prostě krásně, jedna bota nezůstala suchá.
 
-Fotky k pokochání najdete [zde](https://www.rajce.idnes.cz/album/ON7M4JigaWQZBeo1).
+Fotky k pokochání najdete [zde](https://eu.zonerama.com/vlci-keblany/1303470?secret=R29V8G02MMYv0gPl94klH1g49&count=46).
 
 ![](img_20230415_142542.jpg)
