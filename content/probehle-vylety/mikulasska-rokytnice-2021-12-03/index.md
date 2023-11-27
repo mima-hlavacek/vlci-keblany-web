@@ -8,4 +8,4 @@ Letos se již tradiční Mikulášský výlet do Rokytnice velmi vyvedl. Byla sp
 
 ![](img_20211204_115425.jpg)
 
-Další fotky jsou k nahlédnutí [zde](https://keblany.rajce.idnes.cz/Mikulasska_Rokytnice_2021/).
+Další fotky jsou k nahlédnutí [zde](https://eu.zonerama.com/vlci-keblany/1303470?secret=R29V8G02MMYv0gPl94klH1g49&count=46).
