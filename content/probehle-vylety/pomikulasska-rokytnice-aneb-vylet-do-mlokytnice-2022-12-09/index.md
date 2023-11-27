@@ -4,7 +4,7 @@ zacatek: 2022-12-09
 konec: 2022-12-11
 type: post
 ---
-V prosinci jsme s početnou vlčí smečkou čítající všehovšudy 17 vlků všech druhů vyrazili na chaloupku do Rokytnice nad Jizerou. Jak jsme se tam měli nejlépe dokumentuje zápis vytvořený postupně po jedné větě všemi zúčastněnými vlky cestou z výletu v autobusu. Přepis zápisu hledejte hned o odstavec níže a jeho originál ještě kousíček pod ním. A koho by zajímalo i těch několik obrázků, které jsme pořídili, klikejte s chutí sem -> <https://keblany.rajce.idnes.cz/Pomikulasska_Rokytnice_12_2022/>.
+V prosinci jsme s početnou vlčí smečkou čítající všehovšudy 17 vlků všech druhů vyrazili na chaloupku do Rokytnice nad Jizerou. Jak jsme se tam měli nejlépe dokumentuje zápis vytvořený postupně po jedné větě všemi zúčastněnými vlky cestou z výletu v autobusu. Přepis zápisu hledejte hned o odstavec níže a jeho originál ještě kousíček pod ním. A koho by zajímalo i těch několik obrázků, které jsme pořídili, klikejte s chutí [sem](https://eu.zonerama.com/vlci-keblany/1303470?secret=R29V8G02MMYv0gPl94klH1g49&count=46).
 
 ## Výlet do Mlokytnice
 
