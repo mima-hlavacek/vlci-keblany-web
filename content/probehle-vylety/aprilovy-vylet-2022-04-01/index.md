@@ -12,6 +12,6 @@ V klubovně se někdo zabavil deskovkami, jiní zase poskakováním ve spacáku.
 
 Na neděli byla naplánována turistika po Olomouci, ale ne jen tak ledajaká. Vlci dostali za úkol najít tajný poklad, který lidé z Olomouce kdysi schovali na horší časy. K tomu jim sloužila mapa a zašifrované nápovědy, které dostávaly po cestě. I přes neutuchající zimu si vlci se vším hravě poradili a navštívili tak třeba Sloup Nejsvětější trojice, kostel svatého Moritze nebo olomoucký orloj. Výpravu jsme zakončili u krytu civilní obrany, kde vlci získali zasloužený poklad v podobě sladkostí. Potom už jsme spěchali co nejrychleji na nádraží a hurá vlakem za maminkami.
 
-Komu nestačí jedna fotka, nechť si prohlédne [zbylé na Rajčeti](https://keblany.rajce.idnes.cz/Aprilovy_vylet_do_Olomouce/)!
+Komu nestačí jedna fotka, nechť si prohlédne [zbylé na Rajčeti](https://eu.zonerama.com/vlci-keblany/1303470?secret=R29V8G02MMYv0gPl94klH1g49&count=46)!
 
 ![](20220403_111439.jpg)
