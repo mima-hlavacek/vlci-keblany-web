@@ -28,4 +28,4 @@ stop Za rok se zase tesime na
 
 ![](stany.jpg)
 
-vykricnik Zatim se aspon budeme kochat [fotkami](https://eu.zonerama.com/vlci-keblany/Album/10483501) stop
+vykricnik Zatim se aspon budeme kochat [fotkami](https://eu.zonerama.com/vlci-keblany/1303470?secret=R29V8G02MMYv0gPl94klH1g49&count=46) stop
