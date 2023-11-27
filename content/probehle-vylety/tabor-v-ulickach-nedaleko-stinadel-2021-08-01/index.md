@@ -38,6 +38,6 @@ type: post
 
 ![](finalni16.jpg)
 
-**[FOTKY](https://keblany.rajce.idnes.cz/Tabor_2021_-_Rychle_sipy/)**
+**[FOTKY](https://eu.zonerama.com/vlci-keblany/1303470?secret=R29V8G02MMYv0gPl94klH1g49&count=46)**
 
 ![](finalni12.jpg)
