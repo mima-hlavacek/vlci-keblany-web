@@ -36,6 +36,6 @@ pískujeme o sto šest!
 
 Ten, kdo nechtěl zažít nudu,
 
-ten jel s námi do Sherwoodu! - **[hele fotky](https://keblany.rajce.idnes.cz/Tabor_2020_-_Robin_Hood/)**
+ten jel s námi do Sherwoodu! - **[hele fotky](https://eu.zonerama.com/vlci-keblany/1303470?secret=R29V8G02MMYv0gPl94klH1g49&count=46)**
 
 ![](zaver.jpg)
