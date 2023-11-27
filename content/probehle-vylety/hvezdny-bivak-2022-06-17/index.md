@@ -6,8 +6,6 @@ type: post
 ---
 Během víkendu 17.-19. 6. proběhl tradiční červnový bivak. Vyrazily (ano, není to hrubka, letos opravdu pouze v dámském složení) jsme v pátek odpoledne vlakem do Vlašimi, kde jsme navštívily hvězdárnu a přespaly v místní základní škole. V sobotu jsme se výletem vydaly až k Českému Šternberku, kde jsme poblíž hladomorny přespaly, a v neděli jsme s koupáním v Sázavě dorazily na vlak do Sázavy. Odtud jsme pak odjely zpět ke svý domovů směrem ku Praze. Při zpáteční cestě jsem navíc sestrojily krátký report z výletu zachycující jeho nejdůležitější okamžiky. Tedy čtěte dále!
 
-####
-
 Měly jsme čerstvě uzenou okurku, která nám ve vlaku omylem spadla a ulomil se jí vršek. Tuto okurku jsme pojmenovaly Anča.
 
 Ve vlaku jsme dále potkaly holčičku jménem Esterka s papírovou kytarou, která se nás zeptala, když jsme svačily: "Co papáš?"
@@ -24,12 +22,10 @@ Do cíle už to pak bylo jen pár kilometrů, ale nám se zdálo, že je to dale
 
 Pak už nás čekala pouze úmorně teplá cesta domů vlakem, kde jsme si střídaly vějíř. Střídání probíhalo v časovém intervalu do 10. Ve vlaku jsme taky napsaly zápis o výletu.
 
-####
-
 Takže, jak vidíte, bivak byl opravdu hvězdný po všech směrech! :D
 
 Váš výletnický tým
 
-P. S.: Ještě [fotky](https://keblany.rajce.idnes.cz/Hvezdny_bivak_06_2022/)
+P. S.: Ještě [fotky](https://eu.zonerama.com/vlci-keblany/1303470?secret=R29V8G02MMYv0gPl94klH1g49&count=46)
 
 ![Batohy s nožičkami](batohy-s-nozickami.jpg)
