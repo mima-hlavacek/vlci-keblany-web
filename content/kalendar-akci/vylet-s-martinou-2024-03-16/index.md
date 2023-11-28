@@ -1,6 +1,6 @@
 ---
 title: Výlet s Martinou
-zacatek: 2024-03-16
+zacatek: 2024-03-15
 konec: 2024-03-17
 type: post
 ---
