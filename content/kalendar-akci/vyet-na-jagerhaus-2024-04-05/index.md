@@ -1,5 +1,5 @@
 ---
-title: Výet na Jägerhaus
+title: Výlet na Jägerhaus
 zacatek: 2024-04-05
 konec: 2024-04-14
 type: post
