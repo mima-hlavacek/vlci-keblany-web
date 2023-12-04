@@ -4,4 +4,4 @@ zacatek: 2023-09-15
 konec: ""
 type: post
 ---
-P﻿rvní novoškolňorokové deskovky u Kubáčů.
+První novoškolňorokové deskohraní se tentokrát výjimečně konalo u Kubáčů, kde děti skotačily na zahradě a užívaly teplého pozdně-letního večera. Hrály se Dostihy a Sázky, Kubb, Portal Dash a mnoho dalších, často nedeskových her.
