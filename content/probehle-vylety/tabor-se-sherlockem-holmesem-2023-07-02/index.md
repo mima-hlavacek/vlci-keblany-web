@@ -6,7 +6,7 @@ type: post
 ---
 L﻿etosni tabor se vydaril stop Byla trochu
 
-![](vyhen.jpg)
+![](img_20230706_152930.jpg)
 
 carka ale nevyparili jsme se stop Psali jsme na
 
@@ -14,7 +14,7 @@ carka ale nevyparili jsme se stop Psali jsme na
 
 carka poslouchali slagry z
 
-![](gramofon.jpg)
+![](fv7a4099.jpg)
 
 a jezdili
 
