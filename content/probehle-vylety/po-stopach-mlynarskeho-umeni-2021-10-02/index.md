@@ -8,4 +8,4 @@ Kdo nebyl o hodně přišel. Tak by se dal popsat říjnový výlet do mlýna. K
 
 Pokochejte se [fotkami](https://eu.zonerama.com/vlci-keblany/1303470?secret=R29V8G02MMYv0gPl94klH1g49&count=46).
 
-![](20211002_141447.jpg)
+![]()
