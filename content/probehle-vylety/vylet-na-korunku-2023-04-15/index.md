@@ -10,4 +10,4 @@ Klíčovým účastníkem výletu byl Valinovic gumový balon, který v kombinac
 
 Fotky k pokochání najdete [zde](https://eu.zonerama.com/vlci-keblany/1303470?secret=R29V8G02MMYv0gPl94klH1g49&count=46).
 
-![](img_20230415_142542.jpg)
+![](img_20230415_134405.jpg)
