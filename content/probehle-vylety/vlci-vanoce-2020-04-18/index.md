@@ -8,4 +8,4 @@ Vánoce jsme oslavili velkolepým způsobem u Hlaváčků na zahradě. Nanejvý�
 
 Mastný a kyselý!
 
-![Mastný a kyselý](p1030177x.jpg "Mastný a kyselý")
+![Mastný a kyselý](p1030188.jpg "Mastný a kyselý")
