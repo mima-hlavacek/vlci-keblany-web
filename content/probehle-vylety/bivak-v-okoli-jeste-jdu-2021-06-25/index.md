@@ -8,6 +8,6 @@ Prosím, famfáru! Skoro po roce domazašívání jsme vyrazili na tradiční č
 
 Chlebu a kolínkům s bravčovým zdar!
 
-![](bivak3.jpg)
+![](img_20210626_092931.jpg)
 
-![](bivak2.jpg)
+![]()
