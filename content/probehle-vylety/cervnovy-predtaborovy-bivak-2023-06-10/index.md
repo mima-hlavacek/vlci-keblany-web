@@ -8,4 +8,4 @@ Letošní předtáborový bivak směřoval za Mělník ke skalním rytinám Vác
 
 N﻿a rajčeti se dělíme o pár [fotek](https://eu.zonerama.com/vlci-keblany/1303470?secret=R29V8G02MMYv0gPl94klH1g49&count=46).
 
-![](72dccc4b-01d6-4a4a-b7bc-f82c694d60ce.jpg)
+![](e86ffbeb-621c-47eb-a618-0fb0c472efb3.jpg)
