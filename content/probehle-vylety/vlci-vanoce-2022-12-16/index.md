@@ -8,4 +8,4 @@ Vlčí rok 2022 jsme zakončili společnou oslavou vlčích Vánoc - a byly bíl
 
 O prázdninách si můžete zahrát taky a zkusit předvést vykrajovátko na cukroví, balící papír nebo adventní kalendář!
 
-![](img-20221220-wa0014.jpg)
+![](img-20221220-wa0015.jpg)
