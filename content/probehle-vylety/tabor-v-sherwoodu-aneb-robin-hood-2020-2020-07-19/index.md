@@ -8,7 +8,7 @@ Letos to byl Robin Hood,
 
 v den i noc chránil Sherwood.
 
-![](sherwood.jpg)
+![](p1030754.jpg)
 
 Nepoctivců měli jsme plné zuby,
 
@@ -20,22 +20,22 @@ Mistrně stříleli jsme z luku,
 
 nikdo naštěstí nepřišel o ruku. (kromě Náti)
 
-![](luk.jpg)
+![](p1030612.jpg)
 
 Sherwoodský les byl domov náš,
 
 Nottingham, Lincoln - ta místa z mapy dobře znáš.
 
-![](vylet.jpg)
+![](p1030545.jpg)
 
 Nottinghame, jen se třes,
 
 pískujeme o sto šest!
 
-![](piskovani.jpg)
+![](pisek.jpg)
 
 Ten, kdo nechtěl zažít nudu,
 
 ten jel s námi do Sherwoodu! - **[hele fotky](https://eu.zonerama.com/vlci-keblany/1303470?secret=R29V8G02MMYv0gPl94klH1g49&count=46)**
 
-![](zaver.jpg)
+![]()
