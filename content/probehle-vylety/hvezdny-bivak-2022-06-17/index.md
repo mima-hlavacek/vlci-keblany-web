@@ -28,4 +28,4 @@ Váš výletnický tým
 
 P. S.: Ještě [fotky](https://eu.zonerama.com/vlci-keblany/1303470?secret=R29V8G02MMYv0gPl94klH1g49&count=46)
 
-![Batohy s nožičkami](batohy-s-nozickami.jpg)
+![Batohy s nožičkami](img_20220618_192657.jpg)
