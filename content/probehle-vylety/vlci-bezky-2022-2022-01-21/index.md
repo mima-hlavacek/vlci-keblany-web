@@ -8,4 +8,4 @@ Letos se lyžařská výprava konala na Sudétu, i přes covidové peripetie jsm
 
 Kdo nebyl na výpravě zkonzumován můžete zkontrolovat na [fotkách](https://eu.zonerama.com/vlci-keblany/1303470?secret=R29V8G02MMYv0gPl94klH1g49&count=46).
 
-![](20220122_104231.jpg)
+![](img_20220123_100902.jpg)
