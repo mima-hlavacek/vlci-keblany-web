@@ -8,4 +8,4 @@ P﻿rvní potáborové deskohraní událo se ve velké parádě u Brichů na Vin
 
 P﻿ár fotek z klání naleznete [ZDE](https://eu.zonerama.com/vlci-keblany/1303470?secret=R29V8G02MMYv0gPl94klH1g49&count=46).
 
-![](img20221007181118.jpg)
+![]()
