@@ -12,7 +12,7 @@ Termín je fixní a z Prahy **budeme vyrážet v pátek 12.4. v 16:20** Ji�
 
 S sebou budete potřebovat:
 
-Pohorky, spacák s karimatkou, oblečení dle počasí (rezervní pláštěnku), dostatek pití, svačinovečeři na pátek , kartáček s pastou, 700 Kč (vyberu u vlaku).
+Pohorky, spacák s karimatkou, oblečení dle počasí (rezervní pláštěnku), dostatek pití, svačinovečeři na pátek, kartáček s pastou, 700 Kč (vyberu u vlaku).
 
 V﻿šechny zdraví
 
