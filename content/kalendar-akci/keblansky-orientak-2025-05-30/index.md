@@ -16,7 +16,7 @@ Víkend v Keblanech je určen pro všechny, nejen pro orientační běžce. Nemu
 
 Pořádání této akce nás baví a rádi se tam s Vámi potkáme, ale musí nás být nějaké rozumné množství, aby se vložené úsilí a čas vyplatily. Proto Vás poprosíme o přihlášení pomocí google formuláře, ať víme, s kolika účastníky můžeme počítat a zda se letošní ročník uskuteční. Poprosíme o přihlášení ideálně hned, nejdéle do konce dubna.
 
-Prosím přihlaste se pomocí formuláře: [https://forms.gle/​ivRzj4Rvj7DeDuyA7](https://forms.gle/ivRzj4Rvj7DeDuyA7)
+**Prosím přihlaste se pomocí formuláře:** [https://forms.gle/​ivRzj4Rvj7DeDuyA7](https://forms.gle/ivRzj4Rvj7DeDuyA7)
 
 Bližší info bude následovat začátkem května. Předběžně bude organizace jako v minulých ročnících. Tedy sraz v pátek večer, nebo v sobotu ráno (start dětské trasy cca 10:00, dospělé po obědě). V sobotu večer posezení u ohně a vyhlášení výsledků. Odjezd v neděli s možností tradičního oběda v Nesměni.
 
