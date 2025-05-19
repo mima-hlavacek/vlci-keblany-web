@@ -12,4 +12,4 @@ V osadě Včelín jsme dychtivě vyhlíželi mapami.cz slíbenou sbírku totemů
 
 Pro uťapané mokasíny se v pravý čas vynořil zpoza stromů malý bufet s limčou a trampoškou na břehu jezera zbylého po meandrech Labe. Podél řeky jsme pak dokráčeli na kolínské vlakové nádraží a vyrazili tentokrát širokokolejným a řádně přeplněným vlakem ku Praze. Kdo by se chtěl pokochat naším indiánským dobrodružstvím v dvojrozměrné podobě, nechť zkoukne [FOTKY](https://eu.zonerama.com/vlci-keblany/1303470?secret=R29V8G02MMYv0gPl94klH1g49&count=46).
 
-![](20250517_091733.jpg)
+![](20250517_092757.jpg)
