@@ -1,0 +1,33 @@
+---
+title: Tábor v soutěsce Ceblan’s creek
+zacatek: 2025-07-27
+konec: 2025-08-10
+type: post
+---
+I﻿ndiáni, ve mně jste,
+
+![](20250803_191954.jpg)
+
+I﻿ndiáni, ve mně jste,
+
+![](20250805_151315.jpg)
+
+I﻿ndiááni!
+
+![](20250803_163345.jpg)
+
+I﻿ndiáni, ve mně jste,
+
+![](20250803_192015.jpg)
+
+I﻿ndiáni, ve mně jste,
+
+![](20250802_172117.jpg)
+
+I﻿ndiááni!
+
+![](20250728_185044.jpg)
+
+I﻿ndiááni...
+
+![](20250804_190955.jpg)
