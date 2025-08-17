@@ -30,6 +30,6 @@ I﻿ndiááni!
 
 I﻿ndiááni...
 
-![](20250804_190955.jpg)
-
 [F﻿OTKY](https://eu.zonerama.com/vlci-keblany/1303470?secret=R29V8G02MMYv0gPl94klH1g49&count=21)
+
+![](20250804_190955.jpg)
