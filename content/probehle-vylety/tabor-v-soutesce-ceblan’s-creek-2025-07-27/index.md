@@ -18,7 +18,7 @@ I﻿ndiááni!
 
 I﻿ndiáni, ve mně jste,
 
-![](20250803_192015.jpg)
+![](20250731_125036.jpg)
 
 I﻿ndiáni, ve mně jste,
 
