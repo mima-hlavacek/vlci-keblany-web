@@ -1,5 +1,5 @@
 ---
-title: Muzeum Karla Maye v Drážďabech
+title: Muzeum Karla Maye v Drážďabnch
 zacatek: 2025-10-04
 konec: 2025-10-05
 type: post
