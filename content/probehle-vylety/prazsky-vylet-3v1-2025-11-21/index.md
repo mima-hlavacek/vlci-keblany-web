@@ -12,4 +12,4 @@ Výlet jsme zakončili opět ve století 21. pouštěním draků na Babě a výl
 
 Nevahejte se podívat na [FOTKY](https://eu.zonerama.com/vlci-keblany/1303470?secret=R29V8G02MMYv0gPl94klH1g49), které tentokrát pořizovala celá smečka fotografů.
 
-![](alchymistický-vlčí-víkend-–-disk-google.png)
+![](alchymistický-vlčí-víkend-–-disk-google.png)
